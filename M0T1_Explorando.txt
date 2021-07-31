@@ -1,0 +1,9 @@
+Explorando me encontre con algo llamado "pixel art tools"
+creo que se trata de crear "sprites" animados. son apps y herramientas algunos tienen
+indicaciones de instalacion para entornos de GNU/linux.
+
+Otra cosa que me llamo la atencion es un generador de documentos README.
+echo 100% con lenguaje javaScript.
+tengo muchas ganas de saber usarlos pero no se como. 
+
+el mundo de la programacion es muy grande. 
